@@ -244,7 +244,7 @@ ol {
 }
 
 .content__video-card-description-container {
-  width: 100%;
+  max-width: 200px;
 }
 
 .content__video-card-title {
