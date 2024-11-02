@@ -12,6 +12,9 @@ html {
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
@@ -39,7 +42,9 @@ ol {
 
 .content {
   width: 1140px;
-  margin: 133px 30px;
+  margin: auto;
+  padding-top: 133px;
+  padding-bottom: 133px;
   display: flex;
   align-items: end;
   gap: 30px;
