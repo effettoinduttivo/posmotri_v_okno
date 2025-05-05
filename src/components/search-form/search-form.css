@@ -1,0 +1,13 @@
+@import url('./__checkbox-list/__checkbox-list.css');
+@import url('./__checkbox/__checkbox.css');
+@import url('./__fieldset-title/__fieldset-title.css');
+@import url('./__fieldset/__fieldset.css');
+@import url('./__label/__label.css');
+@import url('./__pseudo-checkbox/__pseudo-checkbox.css');
+@import url('./__submit-button/__submit-button.css');
+@import url('./__textfield/__textfield.css');
+
+.search-form {
+  display: flex;
+  justify-content: space-between;
+}

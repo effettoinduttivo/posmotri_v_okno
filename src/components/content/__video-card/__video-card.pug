@@ -1,0 +1,7 @@
+mixin content__video-card(imgUrl, title, text)
+  article.content__video-card
+    .content__video-card-description-container
+      .content__video-card-title= title
+      .content__video-card-description= text
+    .content__video-card-thumbnail
+      img(src=imgUrl, alt=title)

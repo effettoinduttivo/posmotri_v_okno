@@ -1,0 +1,32 @@
+{
+  "name": "posmotri_v_okno",
+  "version": "1.0.0",
+  "description": "Вторая проектная работа — сайт, с помощью которого можно посмотреть вид из окна разных городов России и не только.\r В этом проекте использовались формы и их стилизация, а ещё поработали с разными состояниями элементов",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack serve"
+  },
+  "author": "effettoinduttivo",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.27.1",
+    "@babel/preset-env": "^7.27.1",
+    "autoprefixer": "^10.4.21",
+    "babel-loader": "^10.0.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^7.1.2",
+    "cssnano": "^7.0.6",
+    "html-webpack-plugin": "^5.6.3",
+    "mini-css-extract-plugin": "^2.9.2",
+    "postcss-loader": "^8.1.1",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "webpack": "^5.99.7",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.1"
+  },
+  "dependencies": {
+    "core-js": "^3.42.0"
+  }
+}

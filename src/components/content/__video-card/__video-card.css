@@ -1,0 +1,5 @@
+.content__video-card {
+  display: grid;
+  grid-template-columns: auto 194px;
+  block-size: 103px;
+}

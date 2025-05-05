@@ -1,3 +1,6 @@
+// import '../pages/index.pug';
+import '../pages/index.css';
+
 /* КОНФИГ */
 const preloaderWaitindTime = 1200;
 const cardsOnPage = 5;

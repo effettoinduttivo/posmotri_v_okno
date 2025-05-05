@@ -1,0 +1,9 @@
+.search-form__pseudo-checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #fff;
+  background-color: transparent;
+  inline-size: 19px;
+  aspect-ratio: 1 / 1;
+}

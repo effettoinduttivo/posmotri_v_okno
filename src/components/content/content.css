@@ -1,0 +1,20 @@
+@import url('./__accent/__accent.css');
+@import url('./__card-link/__card-link.css');
+@import url('./__card-link/_current/_current.css');
+@import url('./__details/__details.css');
+@import url('./__list/__list.css');
+@import url('./__list-item/__list-item.css');
+@import url('./__video-card/__video-card.css');
+@import url('./__video-card-description-container/__video-card-description-container.css');
+@import url('./__video-card-title/__video-card-title.css');
+@import url('./__video-card-description/__video-card-description.css');
+@import url('./__video-card-thumbnail/__video-card-thumbnail.css');
+
+.content {
+  display: grid;
+  grid-template-columns: 711px 407px;
+  align-items: end;
+  gap: 30px;
+  margin: auto;
+  padding-block: 133px;
+}

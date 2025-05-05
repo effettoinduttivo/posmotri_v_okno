@@ -1,0 +1,18 @@
+extends ../layouts/default
+
+block content
+  main.content
+    section.result
+      div.result__video-container
+        video.result__video(src="", controls, poster="")
+      form.search-form
+        fieldset.search-form__fieldset
+          h2.search-form__fieldset-title Город
+          label.search-form__label
+            span.search-form__label-text Город
+            input.search-form__textfield(type="text", name="city", placeholder="Санкт Петербург, например")
+        button(type="submit") 
+    section
+      h1 
+        span
+      ul  

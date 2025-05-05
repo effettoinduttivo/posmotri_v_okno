@@ -1,0 +1,6 @@
+.search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
+  content: '';
+  background-color: #fff;
+  inline-size: 15px;
+  aspect-ratio: 1 / 1;
+}

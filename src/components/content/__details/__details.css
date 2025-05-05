@@ -1,0 +1,6 @@
+.content__details {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  block-size: 534px;
+}

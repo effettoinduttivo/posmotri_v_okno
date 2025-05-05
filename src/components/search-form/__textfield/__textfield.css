@@ -1,0 +1,19 @@
+.search-form__textfield {
+  border-inline: 1px solid transparent;
+  border-block: 1px solid currentColor;
+  padding-inline: 0;
+  color: #fff;
+  font: inherit;
+  background-color: transparent;
+  inline-size: 225px;
+  min-block-size: 25px;
+  appearance: none;
+}
+
+.search-form__textfield:active {
+  border: 1px solid #fff;
+}
+
+.search-form__textfield:focus {
+  outline: none;
+}

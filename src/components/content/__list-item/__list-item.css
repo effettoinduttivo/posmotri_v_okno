@@ -1,0 +1,3 @@
+.content__list-item:not(:last-child) {
+  margin-block-end: 26px;
+}

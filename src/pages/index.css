@@ -1,0 +1,11 @@
+@import url('../vendor/fonts.css');
+@import url('../vendor/normalize.css');
+@import url('../components/preloader/preloader.css');
+@import url('../components/error/error.css');
+@import url('../components/page/page.css');
+@import url('../components/title/title.css');
+@import url('../components/button/button.css');
+@import url('../components/content/content.css');
+@import url('../components/more-button/more-button.css');
+@import url('../components/result/result.css');
+@import url('../components/search-form/search-form.css');

@@ -1,0 +1,6 @@
+.content__video-card-thumbnail {
+  object-fit: cover;
+  object-position: center;
+  inline-size: 100%;
+  block-size: 103px;
+}
